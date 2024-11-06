@@ -63,7 +63,7 @@ function getCourse(student, courseIndex) {
   // write your code here...
   return student.courses[courseIndex];
 }
-// console.log(getCourse(students[4], 2)); // Outputs: Music
+// console.log(getCourse(students[4], 2)); // Outputs: Music ..
 
 // 3) Write a `addCourseToStudent` function that accepts a `student` object and `course` string,
 // it will add the course to the student's courses array and return the `student` object
